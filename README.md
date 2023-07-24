@@ -33,7 +33,10 @@ The project is intended to be a learning resource for developers interested in u
 
 ## Technologies Used
 
--HTML
+-HTML  
+
+
+
 -CSS
 
 ## Installation
