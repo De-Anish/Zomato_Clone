@@ -32,12 +32,9 @@ The project is intended to be a learning resource for developers interested in u
 - Admin panel for overall application management.
 
 ## Technologies Used
+HTML
+CSS
 
--HTML  
-
-
-
--CSS
 
 ## Installation
 
